@@ -1,1 +1,1 @@
-This is my first code file using GithUB.
+This is my first code file using Github.
